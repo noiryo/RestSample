@@ -27,3 +27,6 @@ export const useFetch = <T,>(url: string) => {
 
   return { data, isLoading, isError };
 };
+
+
+
